@@ -2,9 +2,9 @@ Logo - https://imgbb.com/
 
 # Ergold - a store of value asset powered by Ergo
 
-Token ID: 	e91cbc48016eb390f8f872aa2962772863e2e840708517d1ab85e57451f91bed
-Date of birth: 	7/11/2021
-Amount: 	55,000,000
+#Token ID: 	e91cbc48016eb390f8f872aa2962772863e2e840708517d1ab85e57451f91bed
+#Date of birth: 	7/11/2021
+#Amount: 	55,000,000
 
 ## Information about the token
 
