@@ -39,8 +39,8 @@ Let's reduce the environmental impact and make its practices more sustainable wi
 
 - **Become** the main store of value token on the ergo blockchain
 - **Become** the most used social award token
-- **Become** the community favorite token for payments on [getblock.io](getblock.io)
-- **Become** one of the highest APR liquidity pool on [ErgoDEX.io](ergodex.io)
+- **Become** the community favorite token for payments on [GetBlok](getblok.io)
+- **Become** one of the highest APR liquidity pool on [ErgoDEX](ergodex.io)
 - **Achieve** as many use cases as possible
 
 ## Usage
