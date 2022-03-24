@@ -11,7 +11,9 @@ Logo - https://imgbb.com/
 
 Gold has been a store of wealth for thousands of years and has outlasted the currencies of various empires and nation-states that have come and gone. 
 
-It is estimated that we have less than 55,000 tons of gold left to discover. Gold mining is one of the most destructive industries in the world. It can displace communities, contaminate drinking water, hurt workers, and destroy pristine environments. It pollutes water and land with mercury and cyanide, endangering the health of people and ecosystems.
+It is estimated that we have less than 55,000 tons of gold left to discover.
+
+Gold mining is one of the most destructive industries in the world. It can displace communities, contaminate drinking water, hurt workers, and destroy pristine environments. It pollutes water and land with mercury and cyanide, endangering the health of people and ecosystems.
 
 Our Understanding of a Traditional Asset Has Changed.
 
