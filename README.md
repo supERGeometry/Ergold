@@ -39,6 +39,6 @@ Swap and provide Liquidity in Ergold pool on the first non-custodial decentraliz
 
 ## Social links
 
-[![Discord](https://discord.gg/f5k2rTCFrN)
+![Discord](https://discord.gg/f5k2rTCFrN)
 
 ![Reddit](https://www.reddit.com/r/ergold/)
