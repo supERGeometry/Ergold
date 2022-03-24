@@ -4,8 +4,8 @@ Logo - https://imgbb.com/
 
 
 - **Token ID**: 	e91cbc48016eb390f8f872aa2962772863e2e840708517d1ab85e57451f91bed
-- **Entry**:Date of birth: 	7/11/2021
-- **Entry**:Amount: 	55,000,000
+- **Date of birth**: 	7/11/2021
+- **Amount**: 	55,000,000
 
 ## Information about the token
 
