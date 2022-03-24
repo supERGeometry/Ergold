@@ -1,4 +1,4 @@
-(https://github.com/vlikes/Ergold/blob/master/logo.png)
+(https://github.com/vlikes/Ergold/blob/master/logo.png?raw=true)
 
 # Ergold - a store of value asset powered by Ergo
 
@@ -30,7 +30,7 @@ Let's reduce the environmental impact and make its practices more sustainable wi
 ## Tokenomics
 
 - **Total supply**: 55,000,000 
-- **Ergold in circulation**: 26,539,200 (distributed through https://ergofaucet.org/)
+- **Ergold in circulation**: 26,547,600 (distributed through https://ergofaucet.org/ - 9,453,600 remaining) 
 - **Public Allocation**: 95.46%
 - **Marketing and Promotion**: 0.54%
 - **Team Allocation**: 4%
