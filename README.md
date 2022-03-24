@@ -30,7 +30,7 @@ Let's reduce the environmental impact and make its practices more sustainable wi
 ## Tokenomics
 
 - **Total supply**: 55,000,000 
-- **Ergold in circulation**: 26,547,600 (distributed through https://ergofaucet.org/ - 9,453,600 remaining) 
+- **Ergold in circulation**: 26,547,600 (distributed through [ErgoFaucet](https://ergofaucet.org/) - 9,453,600 remaining) 
 - **Public Allocation**: 95.46%
 - **Marketing and Promotion**: 0.54%
 - **Team Allocation**: 4%
