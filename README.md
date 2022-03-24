@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/vlikes/Ergold/blob/master/logo.png)
+<img src="https://github.com/vlikes/Ergold/blob/master/logo.png" width="350"/>
 
 # Ergold - a store of value asset powered by Ergo
 
