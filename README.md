@@ -35,7 +35,7 @@ Achieve as many use cases as possible
 
 ## Usage
 
-Swap and provide Liquidity in Ergold pool on the first non-custodial decentralized exchange on the ergo blockchain - ErgoDEX
+Swap and provide Liquidity in Ergold pool on the first non-custodial decentralized exchange on the ergo blockchain - ![ErgoDEX](https://app.ergodex.io/swap)
 
 ## Social links
 
