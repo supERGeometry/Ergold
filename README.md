@@ -27,7 +27,7 @@
 
 Swap and provide Liquidity in Ergold pool on the first non-custodial decentralized exchange on the ergo blockchain - [ErgoDEX](https://app.ergodex.io/swap)
 
-## Additional information
+## Rationale
 
 Gold has been a store of wealth for thousands of years and has outlasted the currencies of various empires and nation-states that have come and gone. 
 
