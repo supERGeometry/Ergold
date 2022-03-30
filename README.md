@@ -49,6 +49,10 @@ Let's reduce the environmental impact and make its practices more sustainable wi
 
 ## Social links
 
+[Website](https://ergold.io/)
+
+[Twitter](https://twitter.com/Ergold_io)
+
 [Discord](https://discord.gg/f5k2rTCFrN)
 
 [Reddit](https://www.reddit.com/r/ergold/)
