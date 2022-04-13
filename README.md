@@ -10,7 +10,7 @@
 ## Tokenomics
 
 - **Total supply**: 55,000,000 
-- **Ergold in circulation**: 30,677,232 - distributed through [ErgoFaucet](https://ergofaucet.org/) 
+- **Ergold in circulation**: 36,925,800 - distributed through [ErgoFaucet](https://ergofaucet.org/) 
 - **Public Allocation**: 95.46%
 - **Marketing and Promotion**: 0.54%
 - **Team Allocation**: 4%
